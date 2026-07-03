@@ -1,2 +1,1 @@
-"Vers∆o inicial" 
-"Linha da feature A" 
+"CONTEUDO A MODIFICADO"  
